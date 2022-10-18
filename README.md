@@ -19,7 +19,7 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 ## Etapa 2. Especificaciones
 1.- Entrada:
 
-    -String numeroTarqueta
+    -String numeroDeTarjeta
     -int pin 
     -Adicionales: nombre, email, telefono
     -float saldo
@@ -31,6 +31,10 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
     
 3.- Salida:
   ~~~
+  
+  ## Etapa 3.Diseño de la solución
+  
+  
   +-------------------------------------------------------------------------+
   ----------------------------------Inicio-----------------------------------
   Ingrese numero de tarjeta:
