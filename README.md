@@ -65,12 +65,13 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
   ~~~
   ~~~
   +------------------------------------------------------------------------+
-  Opciones de creditos
+  Creditos disponibles 
   +------------------------------------------------------------------------+
   
-  1
-  2
-  3
+  1. Créditos de Consumo
+  2. Créditos Comerciales
+  3. Créditos Hipotecarios
+  
   +------------------------------------------------------------------------+
 ~~~  
 ## Etapa 3.Diseño de la solución
