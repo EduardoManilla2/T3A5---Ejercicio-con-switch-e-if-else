@@ -65,5 +65,6 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
   ~~~
 
 ## Etapa 3.Diseño de la solución
+![](https://github.com/EduardoManilla2/T3A2---Ejercicio-02/blob/main/T3A2.png)
 
 
