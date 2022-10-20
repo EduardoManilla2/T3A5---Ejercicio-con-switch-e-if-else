@@ -74,7 +74,7 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
   +------------------------------------------------------------------------+
   
 ## Etapa 3.Diseño de la solución
-![](https://github.com/EduardoManilla2/T3A5---Ejercicio-con-switch-e-if-else/blob/main/Clase%20-.png)
+![](https://github.com/EduardoManilla2/T3A5---Ejercicio-con-switch-e-if-else/blob/main/Clase%20-.png) 
 
 ## Etapa 4. Desarrollo de la solución
 https://github.com/EduardoManilla2/T3A5---Ejercicio-con-switch-e-if-else/blob/main/T3A5.rar
