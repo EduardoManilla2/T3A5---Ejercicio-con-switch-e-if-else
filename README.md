@@ -47,10 +47,11 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
     3.Retirar efectivo
     4.Otras opciones
     5.Salir
-    
+       
   ----------------------------------------------------------------------------
-  Respuesta en base a lo escojido anteriormente:
- ------------------------------------------------------------------------------ 
+  Elija una opción del menú
+ -----------------------------------------------------------------------------
+ Aqui se va a poner la acción a realizar 
   ~~~
   Submenu para cuando se seleccione el punto número cuatro 
   ~~~
