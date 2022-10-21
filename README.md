@@ -52,26 +52,28 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
   Respuesta en base a lo escojido anteriormente:
  ------------------------------------------------------------------------------ 
   ~~~
-  
+  Submenu para cuando se seleccione el punto número cuatro 
   ~~~
   Interfaz para otros servicios 
   +------------------------------------------------------------------------+
+  Menu de opciones: 
+  +------------------------------------------------------------------------+
   1.Seguros
   2.Créditos
-  3. salir
   +------------------------------------------------------------------------+
         Respuesta 
   +------------------------------------------------------------------------+
   ~~~
+  Submenu cuando se escoje la opcion de créditos
   ~~~
   +------------------------------------------------------------------------+
-  Creditos disponibles 
+  Creditos disponibles: 
   +------------------------------------------------------------------------+
-  
   1. Créditos de Consumo
   2. Créditos Comerciales
   3. Créditos Hipotecarios
-  
+  +------------------------------------------------------------------------+
+  Respuesta al numero escojido
   +------------------------------------------------------------------------+
 ~~~  
 ## Etapa 3.Diseño de la solución
